@@ -39,7 +39,7 @@ The Weather Forecast Web Application is a Flask-based web app that allows users 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hrisikesh-neogi/weather-app/
+   git clone https://github.com/MuzahidulIslam1/Weather-app/
    cd weather-app
    ```
 
